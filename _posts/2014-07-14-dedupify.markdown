@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: dedupify.png
+alt: image-alt
+project-date: 2018
+client: My own project
+category: Calendar and Photos
+description: Dedupify helps you declutter your iOS Calendars and Photo library by searching for duplicates and presenting them for easy deletion.<br><br><a href="https://itunes.apple.com/app/id1381180115?mt=8&at=1l3vspW">View on the App Store</a>
+
+---
