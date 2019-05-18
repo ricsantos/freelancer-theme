@@ -18,6 +18,13 @@
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
+                            {% if post.appid %}
+                                <div class="col-lg-8 col-lg-offset-2 text-center">
+                                    <a href="https://itunes.apple.com/app/id{{ post.appid }}?mt=8&at=1l3vspW" class="btn btn-lg btn-default">
+                                        <i class="fa fa-apple"></i>   App Store
+                                    </a>
+                                </div>
+                            {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Client:

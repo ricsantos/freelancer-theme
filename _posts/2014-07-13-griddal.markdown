@@ -7,6 +7,7 @@ alt: image-alt
 project-date: 2017
 client: My own project
 category: Photos, Social
-description: This app will slice up a photo into smaller square images, and sort them in the order they need to be posted, so that on your Instagram profile page, they form one big photo again.<br><br>It's like magic, except it's just math.<br><br><a href="https://itunes.apple.com/app/id1261789244?mt=8&at=1l3vspW">View on the App Store</a>
+appid: 1261789244
+description: This app will slice up a photo into smaller square images, and sort them in the order they need to be posted, so that on your Instagram profile page, they form one big photo again.<br><br>It's like magic, except it's just math.<br><br>
 
 ---
