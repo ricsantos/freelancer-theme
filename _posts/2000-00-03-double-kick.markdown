@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: portfolio
 modal-id: 3
 date: 2014-07-16
 img: double-kick.png

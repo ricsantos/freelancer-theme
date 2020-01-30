@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: portfolio
 modal-id: 2
 date: 2014-07-17
 img: repeat-timer.png
