@@ -8,7 +8,7 @@ skills: "Mobile App Developer"
 meta_author: Santos Ric
 
 # fix baseurl: https://stackoverflow.com/a/25466367/883413
-baseurl: /freelancer-theme
+baseurl: /
 
 # Google webmaster tools
 google_verify:
