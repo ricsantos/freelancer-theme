@@ -50,10 +50,12 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/rixantos
-  #- title: facebook
-  #  url:
+  - title: facebook
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - title: stack-overflow
     url: https://stackoverflow.com/users/883413/ric-santos
+  - title: linkedin
+    url: https://www.linkedin.com/in/rsantos/
   #- title: bitbucket
   #  url: http://bitbucket.org/jekyll
   - title: github
@@ -65,7 +67,7 @@ address:
   #- line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Theme forked from <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
