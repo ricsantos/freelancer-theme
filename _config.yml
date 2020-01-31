@@ -33,10 +33,11 @@ color:
   dark-blue: 084887
   orange: F58A07
   light-orange: F9AB55
-  primary: CCCCCC #D9D1C9 #80B3FF // header
+  primary: 803D57 #532035 #D9D1C9 #80B3FF // header
   # primary-rgb: "24,288,156" #"128,179,255"
   secondary: 555555 #FD6E8A   // nav bar, location
   secondary-dark: 333333 #A2122F  // footer
+  link: DDDDDD
 
 # Footer settings
 footer:
