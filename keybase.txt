@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/ricsantos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ricsantos.net
+  * I am ricsantos (https://keybase.io/ricsantos) on keybase.
+  * I have a public key with fingerprint 26DA 1B4F F538 D298 97ED  7261 C667 4CC6 852C 1AB3
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.7"
+        },
+        "key": {
+            "fingerprint": "26da1b4ff538d29897ed7261c6674cc6852c1ab3",
+            "host": "keybase.io",
+            "key_id": "C6674CC6852C1AB3",
+            "uid": "c5140de617f05aea944ee49a7c6b5e00",
+            "username": "ricsantos"
+        },
+        "merkle_root": {
+            "ctime": 1402920802,
+            "hash": "8c6da4a8b77d204a063f67aa378fe8c6665e780aa93b184d6e92b648b22e5a146461176540f05818692a795024e9e0809f72e066c88c90c984892baab249f6be",
+            "seqno": 18718
+        },
+        "service": {
+            "hostname": "ricsantos.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402920888,
+    "expire_in": 157680000,
+    "prev": "fa2e37cce8c19c82e2509fe04d75d77348e4ba6fe5ad8666bc63a39c826e3f48",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFdkm1oHFUUhndba2oktSgqVgnNgNhqWGfu3Lkfa4tJFxPQ+EVRtkW63LlzZjN2
+M7POzO42bRZk0QZRMKAWSkWUVuiPUqgVrYII/ljRqD/8KCVBKwaatNUkWAwY8OPe
+EFE7v2bmPPc973vOneham+nMtstD7ed7N53OTl50MzvfOH/mgOFG3qiRP2DISgBh
+qt9CMQJG3tgLo65IIBdEm8PIg9zTyeZVpteoQ5wEUagoM4dz1Gj2alwf9oOwDHE1
+DrSWgYgnLBf7vmMzD3HGKXgUEUsSQrGUhDlIWsK1leRwlKT/62qsaJYCT/0taL5Q
+0HzB6t+h+dpKQToWNj0gFvVNR4DgGANgLqgkrgOmqcEE4tVIcSATEaZRog2PQLy3
+AqU4ilZSyzTQjJJDHJnMRMqSSIbVKSZVCiyYS6mHTCxMYvuECmFT5oMqEuIAZaYQ
+3HYthj0CHLkEMxchcISFCSaWRYmDTeWRWYxwJCh3TISBg+rEfYrAJEQyJrkpOcNM
+CQjhIsx94oLKkMAzYaTMMWqxpv6M64EEbVuP7ep0uRD0kqpxlEYyqqjScJpW8zp0
+OlrVaAPck6VVlZIbhJ7a2n/Xain0qoEw1mvAvmoQQynQhEMJM9Wj+0BdafoCgU2l
+VCOxuGQIkKOigYk96niU2pgBdgXx1Uw8pobmSmILW5MEbB+zf2PayqcoK8kkKIci
+rcVgNF/I3nFNJtuZuXbdGn1vM53XbfznMg+80vEnvzjd06Z9rebxnq/bdy7NdHc+
+ceXs4vvT82Nj4wu15bsHjyyuHx8pltfP/fBao6vnntai38ji+tJnvxcmL+058d7G
+s7988/2N3c7JH798a0OjY/eeLW++8+HBXdnb5HdPfZVev/vWDWMP/Xzh1LkHzm2t
+bvIf3Pbr0Mu1wcO78me6989nZu67/9XWqYWuwWP0lm9/mnop29o+URnaYX307qEP
+fuu70C4Onv50fm5y4PO/rhzp6Kv1T03tm/p4aZ2o384ntjYeE80/zhfHp2eeXLtc
+6f/i+E03HO6/a2B251wre3Qhumw8vNxnPsIPnSiumS1Wjj1++dL2oy++ve25R2dv
+Pri/uqU7//r0vc9+8jc=
+=PzV+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ricsantos
+
+==================================================================
