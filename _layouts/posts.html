@@ -25,13 +25,10 @@
         <div class="row">
             {% assign filtered-posts = site.posts | where: "layout","post" %}
             {% for post in filtered-posts %}
-            
-            
-                <b class="h3">{{ post.title }}</b>
+                <a class="h3" href={{ post.url }}>{{ post.title }}</a>
                 <br><br>
                 {{ post.excerpt }}
                 <br><br>
-            
             {% endfor %}
         </div>
     </div>
