@@ -44,7 +44,7 @@ footer:
   copyright: Ric Santos
   location: Location
   social: Social
-  credits: Credits
+  blog: Blog
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -66,8 +66,8 @@ address:
   - line: Adelaide, Australia
   #- line: Beverly Hills, CA 90210
 
-# Credits content
-credits: 'Theme forked from <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Blog content
+blog: 'Here are a few <a href="/posts" color=site.color.link>Blog Posts</a>.'
 
 # Build settings
 markdown: kramdown
