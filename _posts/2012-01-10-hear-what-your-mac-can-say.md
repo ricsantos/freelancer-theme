@@ -4,7 +4,6 @@ title: Hear what your mac can say
 date: 2012-01-10T21:30:03+09:30
 author: ricsantos
 layout: post
-guid: http://www.ricsantos.net/?p=33
 permalink: /2012/01/10/hear-what-your-mac-can-say/
 enclosure:
   - |
@@ -23,7 +22,7 @@ Just open up terminal, and to begin with give this a whirl.
 
 Easy peasy, lemon squeezy, your mac just talked to you. Assuming you had the speakers turned up.
 
-That was plain old Alex speaking to you. The fun has just begun, however, because there are a few different personalities hiding inside. You can check out the <a title="man pages" href="http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/say.1.html" target="_blank">man</a>ual but it isn&#8217;t overly helpful. It tells you to use the -v option to change the voice. But what other voices, dare I ask? Well there&#8217;s Vicki, Fred, Junior, Cellos, and my favourite, Zarvox. There are others of course, the answer lies on your hard drive. Checkout:
+That was plain old Alex speaking to you. The fun has just begun, however, because there are a few different personalities hiding inside. You can check out the <a title="man pages" href="https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/say.1.html" target="_blank">man</a>ual but it isn&#8217;t overly helpful. It tells you to use the -v option to change the voice. But what other voices, dare I ask? Well there&#8217;s Vicki, Fred, Junior, Cellos, and my favourite, Zarvox. There are others of course, the answer lies on your hard drive. Checkout:
 
 <pre>/System/Library/Speech/Voices/</pre>
 

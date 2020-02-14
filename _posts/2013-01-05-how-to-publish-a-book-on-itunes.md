@@ -4,7 +4,6 @@ title: How to publish a book on iTunes
 date: 2013-01-05T14:32:19+09:30
 author: ricsantos
 layout: post
-guid: http://www.ricsantos.net/?p=119
 permalink: /2013/01/05/how-to-publish-a-book-on-itunes/
 categories:
   - Uncategorized

@@ -4,7 +4,6 @@ title: How to find a Facebook Page ID
 date: 2012-12-03T13:29:52+09:30
 author: ricsantos
 layout: post
-guid: http://www.ricsantos.net/?p=91
 permalink: /2012/12/03/how-to-find-a-facebook-page-id/
 categories:
   - Uncategorized
@@ -21,4 +20,4 @@ http://www.facebook.com/photo.php?fbid=10150919682383697&set=a.455775213696.2335
 
 The Facebook Page ID is the number after the last decimal point, in this case: **29534858696**
 
-Power users: skip the above steps and dive straight into the <a title="Facebokk Graph Explorer" href="http://developers.facebook.com/tools/explorer" target="_blank">Facebook Graph Explorer</a>.
+Power users: skip the above steps and dive straight into the <a title="Facebokk Graph Explorer" href="https://developers.facebook.com/tools/explorer" target="_blank">Facebook Graph Explorer</a>.

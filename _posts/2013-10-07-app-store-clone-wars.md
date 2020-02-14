@@ -9,7 +9,7 @@ permalink: /2013/10/07/app-store-clone-wars/
 categories:
   - Uncategorized
 ---
-As the <a href="http://en.wikipedia.org/wiki/Charles_Caleb_Colton" target="_blank">saying</a> goes, imitation is the sincerest form of flattery. Well, flattered I am not.
+As the <a href="https://en.wikipedia.org/wiki/Charles_Caleb_Colton" target="_blank">saying</a> goes, imitation is the sincerest form of flattery. Well, flattered I am not.
 
 It has been brought to my attention that my iOS app <a title="Stezza" href="http://stezza.co" target="_blank">Stezza</a> has been completely ripped off, by someone called Rongrong Lai, aka RDeveloper. Rongrong, what you have done is just plain wrong. (Cheap shot, but not as cheap as stealing).
 

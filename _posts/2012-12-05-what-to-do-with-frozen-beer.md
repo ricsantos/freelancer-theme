@@ -4,7 +4,6 @@ title: What to do with frozen beer
 date: 2012-12-05T18:20:58+09:30
 author: ricsantos
 layout: post
-guid: http://www.ricsantos.net/?p=98
 permalink: /2012/12/05/what-to-do-with-frozen-beer/
 categories:
   - Uncategorized

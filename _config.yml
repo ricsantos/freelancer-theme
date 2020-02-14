@@ -49,7 +49,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/rixantos
+    url: https://twitter.com/rixantos
   - title: facebook
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - title: stack-overflow
@@ -57,9 +57,9 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/rsantos/
   #- title: bitbucket
-  #  url: http://bitbucket.org/jekyll
+  #  url: https://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/ricsantos
+    url: http:s//github.com/ricsantos
 
 # Postal address (add as many lines as necessary)
 address:
