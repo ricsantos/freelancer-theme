@@ -3,10 +3,6 @@ title: How to setup app-ads.txt for AdMob and iOS
 date: 2016-10-20T20:32:39+09:30
 author: ricsantos
 layout: post
-categories:
-  - How to
-  - Advertising
-  - App Store
 ---
 
 Did you receive an email from Google recently telling you to `Protect your apps with app-ads.txt`? I did. I run Google Ads on a bunch of my iOS apps, and decided to figure out how easy or hard it is to set this up.
