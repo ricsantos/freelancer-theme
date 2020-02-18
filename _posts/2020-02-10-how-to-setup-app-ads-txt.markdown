@@ -1,6 +1,6 @@
 ---
 title: How to setup app-ads.txt for AdMob and iOS
-date: 2016-10-20T20:32:39+09:30
+date: 2020-02-10
 author: ricsantos
 layout: post
 ---
