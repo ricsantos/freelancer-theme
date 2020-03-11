@@ -1,0 +1,13 @@
+---
+layout: portfolio
+modal-id: 10
+date: 2014-07-15
+img: keepon.png
+alt: image-alt
+project-date: 2017
+client: SUMMER OF GEORGE
+category: Business, Payments
+appid: 971732357
+description: <a href="https://getkeepon.com">Keepon</a> is a tool to manage all aspects of business, from helping you get paid, to managing bookings, finance and to even help you build better client relationships.<br><br>Bookings - Manage one-on-one and group appointments with ease.<br><br>Payments - From cash to paperless direct debiting and invoicing that can be setup in under 30 secs.<br><br>Finance management - Finances no longer have to be scary. Keepon records all of your transactions and packages them up nicely into an easy to understand financial overview.<br><br>Client management - Close sales and keep retention high with all your client details in one place.<br><br>Online bookings - Fill your calendar while you sleep. Set your hours and block out unavailable time.
+
+---
