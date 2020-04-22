@@ -1,0 +1,12 @@
+---
+layout: portfolio
+modal-id: 12
+date: 2019-03-01
+img: mzed.png
+alt: image-alt
+project-date: 2019
+client: MZed
+category: Video, Film
+appid: 1456561064
+description: I developed most of MZed for iOS whilst working at <a href="https://nextfaze.com">NextFaze</a> as the lead developer on the project. Featuring a clean an simple design, MZed allows you to stream or download video content that is only available to MZed customers.
+---
