@@ -15,13 +15,17 @@ It has been brought to my attention that my iOS app <a title="Stezza" href="http
 
 When Stezza was originally released, it was in the style of Metro. Since that started to feel a bit stale with iOS 7, it has been updated to look more modern, essentially by reducing the gaps between the buttons.
 
-<p style="text-align: center;">
-  <a href="http://www.ricsantos.net/wp-content/uploads/2013/10/stezza_red_new.png"><img class="alignnone  wp-image-144" alt="stezza_red_new" src="http://www.ricsantos.net/wp-content/uploads/2013/10/stezza_red_new-169x300.png" width="152" height="270" srcset="https://www.ricsantos.net/wp-content/uploads/2013/10/stezza_red_new-169x300.png 169w, https://www.ricsantos.net/wp-content/uploads/2013/10/stezza_red_new.png 320w" sizes="(max-width: 152px) 100vw, 152px" /></a><a href="http://www.ricsantos.net/wp-content/uploads/2013/10/stezza_red_old.png"><img class="alignnone  wp-image-145" alt="stezza_red_old" src="http://www.ricsantos.net/wp-content/uploads/2013/10/stezza_red_old-169x300.png" width="152" height="270" srcset="https://www.ricsantos.net/wp-content/uploads/2013/10/stezza_red_old-169x300.png 169w, https://www.ricsantos.net/wp-content/uploads/2013/10/stezza_red_old.png 320w" sizes="(max-width: 152px) 100vw, 152px" /></a><img class="alignnone  wp-image-143" style="color: #333333; font-style: normal;" alt="imusic_player" src="http://www.ricsantos.net/wp-content/uploads/2013/10/imusic_player-169x300.jpeg" width="152" height="270" srcset="https://www.ricsantos.net/wp-content/uploads/2013/10/imusic_player-169x300.jpeg 169w, https://www.ricsantos.net/wp-content/uploads/2013/10/imusic_player.jpeg 320w" sizes="(max-width: 152px) 100vw, 152px" />
-</p>
+#### Stezza New
+<img alt="Stezza Red New" src="/img/blog/stezza_red_new.png">
+<br><br>
 
-<h6 style="text-align: center;">
-  <span style="color: #808080;"><strong>Screenshot comparison: current Stezza, old Stezza, rip off iMusic Player</strong></span>
-</h6>
+#### Stezza Old
+<img alt="Stezza Red Old" src="/img/blog/stezza_red_old.png">
+<br><br>
+
+#### iMusic Player
+<img alt="iMusic Player" src="/img/blog/imusic_player.jpeg">
+<br><br>
 
 As you can see, the design has been copied completely, but to a lesser quality. The navigation style (swipe left and right ala Facebook) was copied as well. But wait, there&#8217;s more.
 
