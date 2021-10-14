@@ -1,0 +1,12 @@
+---
+layout: portfolio
+modal-id: 13
+date: 2021-10-14
+img: ovil.png
+alt: image-alt
+project-date: 2021
+client: Backdrop dev studios
+category: Photography
+appid: 1585141409
+description: Ovil helps parents transform DIY baby photos, pregnancy photos & child photos into professionally styled, studio quality photography using beautiful backdrops. Ovil makes capturing precious memories easy, affordable and adorable!
+---
