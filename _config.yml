@@ -70,7 +70,7 @@ address:
   - line: Adelaide, Australia
   #- line: Beverly Hills, CA 90210
 
-book-line: '<a href="https://app.getkeepon.com/book/ricsantos" color=site.color.link>Let's chat!</a>.'
+book-line: '<a href="https://app.getkeepon.com/book/foobarcreative" color=site.color.link>Book a consult</a>.'
 
 # Blog content
 blog: 'Here are a few <a href="/posts" color=site.color.link>Blog Posts</a>.'
