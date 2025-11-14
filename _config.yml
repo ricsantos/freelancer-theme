@@ -78,3 +78,7 @@ blog: 'Here are a few <a href="/posts" color=site.color.link>Blog Posts</a>.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Include the face_looker directory in the build
+include:
+  - face_looker
