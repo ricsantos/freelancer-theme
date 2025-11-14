@@ -51,8 +51,8 @@ out/
 *.jpg
 *.jpeg
 *.png
-*.webp
 !example_face.jpg
+# Note: *.webp removed so face images can be committed
 
 # API keys and secrets
 .env.local
