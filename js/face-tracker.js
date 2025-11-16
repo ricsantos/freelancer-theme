@@ -44,14 +44,11 @@ function initializeFaceTracker(container) {
     container.appendChild(debugEl);
   }
 
-  function setFromClient(clientX, clientY) {
-    const rect = container.getBoundingClientRect();
-    const centerX = rect.left + rect.width / 2;
-    const centerY = rect.top + rect.height / 2;
+  let useGyroscope = false;
+  let gyroNx = 0;
+  let gyroNy = 0;
 
-    const nx = (clientX - centerX) / (rect.width / 2);
-    const ny = (centerY - clientY) / (rect.height / 2);
-
+  function setFromNormalized(nx, ny) {
     const clampedX = clamp(nx, -1, 1);
     const clampedY = clamp(ny, -1, 1);
 
@@ -61,21 +58,92 @@ function initializeFaceTracker(container) {
     const filename = gridToFilename(px, py);
     const imagePath = `${basePath}${filename}`;
     img.src = imagePath;
-    updateDebug(debugEl, clientX - rect.left, clientY - rect.top, filename);
+
+    if (debugEl) {
+      debugEl.innerHTML = `Normalized: (${nx.toFixed(2)}, ${ny.toFixed(2)})<br/>Image: ${filename}`;
+    }
+  }
+
+  function setFromClient(clientX, clientY) {
+    const rect = container.getBoundingClientRect();
+    const centerX = rect.left + rect.width / 2;
+    const centerY = rect.top + rect.height / 2;
+
+    const nx = (clientX - centerX) / (rect.width / 2);
+    const ny = (centerY - clientY) / (rect.height / 2);
+
+    setFromNormalized(nx, ny);
   }
 
   function handleMouseMove(e) {
-    setFromClient(e.clientX, e.clientY);
+    if (!useGyroscope) {
+      setFromClient(e.clientX, e.clientY);
+    }
   }
 
   function handleTouchMove(e) {
-    if (e.touches && e.touches.length > 0) {
+    if (!useGyroscope && e.touches && e.touches.length > 0) {
       const t = e.touches[0];
       setFromClient(t.clientX, t.clientY);
     }
   }
 
-  // Track pointer anywhere on the page
+  function handleOrientation(event) {
+    // DeviceOrientationEvent provides:
+    // - beta: front-to-back tilt (-180 to 180, where 0 is flat)
+    // - gamma: left-to-right tilt (-90 to 90, where 0 is flat)
+
+    const beta = event.beta;   // front-back tilt
+    const gamma = event.gamma; // left-right tilt
+
+    // Map gamma (-90 to 90) to nx (-1 to 1)
+    // Tilt left (negative gamma) = look left (negative nx)
+    gyroNx = clamp(gamma / 45, -1, 1);
+
+    // Map beta to ny (-1 to 1)
+    // When phone is held upright (portrait), beta ~90
+    // Tilt forward (beta > 90) = look down (negative ny)
+    // Tilt backward (beta < 90) = look up (positive ny)
+    const betaCentered = beta - 90; // Center around portrait position
+    gyroNy = clamp(-betaCentered / 45, -1, 1);
+
+    setFromNormalized(gyroNx, gyroNy);
+  }
+
+  // Check if device supports orientation and request permission on iOS 13+
+  function enableGyroscope() {
+    if (typeof DeviceOrientationEvent !== 'undefined') {
+      // iOS 13+ requires permission
+      if (typeof DeviceOrientationEvent.requestPermission === 'function') {
+        DeviceOrientationEvent.requestPermission()
+          .then(permissionState => {
+            if (permissionState === 'granted') {
+              useGyroscope = true;
+              window.addEventListener('deviceorientation', handleOrientation, true);
+            }
+          })
+          .catch(console.error);
+      } else {
+        // Non-iOS or older iOS
+        useGyroscope = true;
+        window.addEventListener('deviceorientation', handleOrientation, true);
+      }
+    }
+  }
+
+  // Auto-detect mobile and enable gyroscope
+  const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+  if (isMobile) {
+    // For iOS 13+, we need a user gesture to request permission
+    // Add a tap listener to request permission
+    const requestPermission = () => {
+      enableGyroscope();
+      document.removeEventListener('touchstart', requestPermission);
+    };
+    document.addEventListener('touchstart', requestPermission, { once: true });
+  }
+
+  // Track pointer anywhere on the page (fallback for desktop or when gyro unavailable)
   window.addEventListener('mousemove', handleMouseMove);
   window.addEventListener('touchmove', handleTouchMove, { passive: true });
 
