@@ -5,7 +5,7 @@ date: 2014-07-18
 img: stezza.png
 alt: image-alt
 project-date: 2013
-client: My own project
+client: My Own (Foobar Creative)
 category: Music
 appid: 590317007
 description: Stezza is a simple and stylish way to interact with your iTunes media library. It has all of the standard iPod features, wrapped in a easy to use interface that suits an active lifestyle.<br><br>"Stezza is meant to be quick, easy and accessible. If that’s all you’re after, look no further."<br>- Cult of Mac<br><br>
