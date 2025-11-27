@@ -2,7 +2,7 @@
 layout: portfolio
 modal-id: 10
 date: 2014-07-15
-img: keepon.png
+img: keepon.webp
 alt: image-alt
 project-date: 2017
 client: SUMMER OF GEORGE

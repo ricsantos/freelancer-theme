@@ -2,7 +2,7 @@
 layout: portfolio
 modal-id: 3
 date: 2014-07-16
-img: double-kick.png
+img: double-kick.webp
 alt: image-alt
 project-date: 2016
 client: My Own (Foobar Creative)

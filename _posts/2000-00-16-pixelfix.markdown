@@ -1,0 +1,12 @@
+---
+layout: portfolio
+modal-id: 16
+date: 2025-09-01
+img: pixelfix.png
+alt: image-alt
+project-date: 2025
+client: My Own (Foobar Creative)
+category: Photo and Video
+appid: 6745091431
+description: Fix, enhance, and transform your photos with cutting‑edge AI. Whether you want to restore old snapshots, remove unwanted objects, upscale resolution, or create polished visuals for professional or creative use, <a href="https://pixelfixapp.com">Pixelfix</a> delivers with precision and ease.
+---

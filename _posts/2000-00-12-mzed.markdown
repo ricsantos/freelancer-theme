@@ -2,7 +2,7 @@
 layout: portfolio
 modal-id: 12
 date: 2019-03-01
-img: mzed.png
+img: mzed.webp
 alt: image-alt
 project-date: 2019
 client: MZed
