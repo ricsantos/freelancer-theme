@@ -18,6 +18,6 @@ Feedback from the pitch panel (aka the dragons) was directed at lacking financia
 
 Big ups to Little Birdy for winning best pitch &#8211; well deserved, and also to City Sous Chef, for taking out the peer award &#8211; let the good times roll!
 
-Thanks to Peta Pash for her always positive attitude throughout the course, and to <a title="Speakers Studio" href="http://www.speakersstudio.com.au/" target="_blank">David and Leila</a> for their training and encouragement. Thanks also to Derek for getting us involved in this whole mess in the first place, and of course Andreas, for his unique style and polished sarcasm!
+Thanks to Peta Pash for her always positive attitude throughout the course, and to <a title="Speakers Studio" href="https://www.speakersstudio.com.au/" target="_blank">David and Leila</a> for their training and encouragement. Thanks also to Derek for getting us involved in this whole mess in the first place, and of course Andreas, for his unique style and polished sarcasm!
 
-<img class="alignnone size-medium wp-image-103" alt="mega_pitch_day_andreas" src="http://www.ricsantos.net/wp-content/uploads/2012/12/mega_pitch_day_andreas-260x300.jpeg" width="260" height="300" srcset="https://www.ricsantos.net/wp-content/uploads/2012/12/mega_pitch_day_andreas-260x300.jpeg 260w, https://www.ricsantos.net/wp-content/uploads/2012/12/mega_pitch_day_andreas.jpeg 835w" sizes="(max-width: 260px) 100vw, 260px" />
+<img alt="Andreas on pitch day at MEGA" src="/img/posts/mega_pitch_day_andreas.jpeg" width="260" height="300" />

@@ -13,7 +13,7 @@ _Ric Santos_ is committed to providing you with the best possible customer servi
 
 Viewing the website does not collect any personal information. Unless otherwise stated, the iOS apps covered by this policy do not collect any personal information. If you email us, then we will have a record of your email address.
 
-This website uses Google Analytics, and the iOS apps covered use Google Analytics and potentially the Facebook SDK.
+This website does not use analytics or tracking cookies. The iOS apps covered use Google Analytics and potentially the Facebook SDK.
 
 ### Sharing of your personal information
 
@@ -21,7 +21,7 @@ We may occasionally hire other companies to provide services on our behalf, incl
 
 ### Use of your personal information
 
-For each visitor to reach the site, we expressively collect the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used solely internally for the purpose of gauging visitor traffic, trends and delivering personalized content to you while you are at this Site.
+The website itself collects no visitor information. The iOS apps covered may collect non-personally identifiable information, such as device type, operating system version, app version and crash reports. This information is used only to monitor performance and improve the apps.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
 

@@ -5,11 +5,6 @@ date: 2012-01-10T21:30:03+09:30
 author: ricsantos
 layout: post
 permalink: /2012/01/10/hear-what-your-mac-can-say/
-enclosure:
-  - |
-    http://www.ricsantos.net/wp-content/uploads/2012/01/blogon.m4a
-    49423
-    audio/mpeg
     
 categories:
   - Uncategorized
@@ -30,4 +25,4 @@ If it&#8217;s anything like mine, you will have:
 
 Agnes, Albert, Alex, BadNews, Bahh, Bells, Boing, Bruce, Bubbles, Cellos, Deranged, Fred, GoodNews, Hysterical, Junior, Kathy, Organ, Princess, Ralph, Trinoids, Vicki, Victoria, Whisper and Zarvox.
 
-PS: Once handy option is -o which will let you export to an audio format of your (apple friendly) choice. [blogon](http://www.ricsantos.net/wp-content/uploads/2012/01/blogon.m4a).
+PS: Once handy option is -o which will let you export to an audio format of your (apple friendly) choice. blogon.m4a.
