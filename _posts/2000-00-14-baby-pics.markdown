@@ -8,5 +8,5 @@ project-date: 2020
 client: Burleigh Creative
 category: Photography
 appid: 965474816
-description: The original award winning, baby milestone photo editor. Baby Pics< had been around for a long time before I started working on it, with an established presence on the App Stores. As a contractor and then employee, I have maintained the app and developed new features as we bring the app to the AI age.
+description: The original award winning, baby milestone photo editor. Baby Pics had been around for a long time before I started working on it, with an established presence on the App Stores. As a contractor and then employee, I have maintained the app and developed new features as we bring the app to the AI age.
 ---
